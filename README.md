@@ -14,7 +14,7 @@ Probability exceedances: Computes the likelihood of earthquakes exceeding critic
 
 Visualization: Plots histogram of maximum magnitudes over a 50-year window.
 
-Example Output
+Example Output:
 Multizone Bangladesh 50-year Probabilities
 P(M ≥ 6.0) = 85.34%
 P(M ≥ 7.0) = 42.17%
